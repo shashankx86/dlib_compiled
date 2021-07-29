@@ -14,6 +14,9 @@
 > Open "CMD" or "POWERSHELL" [Where you have saved Python Wheel] 
 > Type Command : pip install dlib-19.22.99-cp39-cp39-win_amd64.whl
 ```
+```bash
+pip install dlib-19.22.99-cp39-cp39-win_amd64.whl
+```
 #### Windows MSI
 ```bash
 > Download "Windows MSI"
