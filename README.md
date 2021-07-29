@@ -3,6 +3,8 @@
 - [Windows MSI](https://raw.githubusercontent.com/shashankx86/dlib_compiled/main/dlib-19.22.99.win-amd64-py3.9.msi)
 - [Windows exe Installer](https://raw.githubusercontent.com/shashankx86/dlib_compiled/main/dlib-19.22.99.win-amd64-py3.9.exe)
 
+## dlib INFO
+- dlib v19.22
 ## Requirement 
 - [Python 3.9.x](https://www.python.org/downloads/) 
 
