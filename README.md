@@ -4,7 +4,7 @@
 - [Windows exe Installer](https://raw.githubusercontent.com/shashankx86/dlib_compiled/main/dlib-19.22.99.win-amd64-py3.9.exe)
 
 ## Requirement 
-- [Python 3.9.x](https://www.python.org/downloads/) 
+- [Python 3.9.5](https://www.python.org/downloads/) or Lower 
 
 ## How to Install
 #### Python Wheel
